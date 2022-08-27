@@ -16,7 +16,6 @@ By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](http
 4. Testing your code.
 5. Save your progress to github.
 
-<!-- hide -->
 
 ## 🌱 How to start
 
