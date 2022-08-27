@@ -10,7 +10,7 @@ By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](http
 <!-- endhide -->
 
 1. How to stop and start the tutorial engine.
-1. Navigate throught the exercise steps.
+1. Navigate through the exercise steps.
 2. Multiple language translations.
 3. Compiling your code.
 4. Testing your code.
