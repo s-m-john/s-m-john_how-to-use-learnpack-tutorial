@@ -1,6 +1,7 @@
 # How to learn with Learnpack
 
 <!-- hide -->
+
 By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/html-tutorial-exercises-course/graphs/contributors)
 
 <p>
@@ -11,11 +12,10 @@ By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](http
 
 1. How to stop and start the tutorial engine.
 1. Navigate through the exercise steps.
-2. Multiple language translations.
-3. Compiling your code.
-4. Testing your code.
-5. Save your progress to github.
-
+1. Multiple language translations.
+1. Compiling your code.
+1. Testing your code.
+1. Save your progress to github.
 
 ## 🌱 How to start
 
@@ -23,7 +23,7 @@ There are two ways to run the exercises: Immediately in gitpod (recommended) or 
 
 ### A) Open immediately with Gitpod (one-click)
 
-This exercises are configured to easily open in gitpod.
+These exercises are configured to easily open in gitpod.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-tutorial-exercises-course.git)
 
