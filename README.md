@@ -11,19 +11,22 @@ By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](http
 <!-- endhide -->
 
 1. How to stop and start the tutorial engine.
-1. Navigate through the exercise steps.
-1. Multiple language translations.
-1. Compiling your code.
-1. Testing your code.
-1. Save your progress to github.
+2. Navigate through the exercise steps.
+3. Multiple language translations.
+4. Compiling your code.
+5. Testing your code.
+6. Save your progress to github.
 
+<!-- hide -->
 ## 🌱 How to start
 
 There are two ways to run the exercises: Immediately in gitpod (recommended) or locally in your computer (requires installation).
 
-### A) Open immediately with Gitpod (one-click)
+### A) One click installation (recommended):
 
-These exercises are configured to easily open in gitpod.
+You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/css-layouts-tutorial-exercises) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises.git).
+
+> Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-tutorial-exercises-course.git)
 
@@ -51,3 +54,4 @@ Note: Once you finish downloading, you will find a "exercises" folder that conta
 $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
+<!-- endhide -->
