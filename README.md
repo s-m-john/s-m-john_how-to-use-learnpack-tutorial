@@ -2,12 +2,13 @@
 
 <!-- hide -->
 
-By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/html-tutorial-exercises-course/graphs/contributors)
+By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/learnpack/how-to-use-learnpack-tutorial/graphs/contributors)
 
 <p>
-<img alt="last commit" src="https://img.shields.io/github/last-commit/4geeksacademy/javascript-arrays-exercises-tutorial" class="text-center" />
+<img alt="last commit" src="https://img.shields.io/github/last-commit/learnpack/how-to-use-learnpack-tutorial" class="text-center" />
 <img alt="last commit" src="https://img.shields.io/twitter/follow/learnpack?style=social&logo=twitter" class="text-center" />
 </p>
+
 <!-- endhide -->
 
 1. How to stop and start the tutorial engine.
