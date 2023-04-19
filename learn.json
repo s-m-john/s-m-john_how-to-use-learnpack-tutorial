@@ -4,5 +4,6 @@
   "duration": 1,
   "description": "Ideal for first time learners, go over all the functionalities in a tipical course.",
   "title": "How to use learnpack for learners",
-  "slug": "how-to-use-learnpack-for-learners"
+  "slug": "how-to-use-learnpack-for-learners",
+  "preview": "https://breathecode.herokuapp.com/v1/media/file/screenshot-2023-04-19-at-3-05-42-pm-png"
 }
